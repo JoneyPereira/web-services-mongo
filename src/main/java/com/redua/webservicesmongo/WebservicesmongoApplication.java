@@ -9,5 +9,4 @@ public class WebservicesmongoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WebservicesmongoApplication.class, args);
 	}
-
 }
