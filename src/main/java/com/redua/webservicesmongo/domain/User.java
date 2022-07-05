@@ -16,7 +16,7 @@ import lombok.Setter;
 @AllArgsConstructor
 @NoArgsConstructor
 @EqualsAndHashCode
-@Document(collation="user")
+@Document(collection="user")
 public class User implements Serializable {
     static final long serialVersionUID = 1L;
 
